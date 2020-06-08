@@ -22,7 +22,7 @@ pod 'EMUIKits'
 
 ## Author
 
-xiangping, ping.xiang@yimifudao.com
+xiangping, xiangping165@sina.com
 
 ## License
 
