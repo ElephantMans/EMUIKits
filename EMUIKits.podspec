@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EMUIKits'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'EMUIKits is a ui framework to use easily'
 
 # This description is used to generate tags and improve search results.
@@ -29,9 +29,9 @@ EMUIKits is a ui framework to use easily
 
   s.source_files = 'EMUIKits/Classes/**/*'
   
-   s.resource_bundles = {
-     'EMUIKits' => ['EMUIKits/Assets/*.png']
-   }
+#   s.resource_bundles = {
+#     'EMUIKits' => ['EMUIKits/Assets/*.png']
+#   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
