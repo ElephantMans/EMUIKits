@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 EMUIKits is a ui framework to use easily
-
+                      DESC
   s.homepage         = 'https://github.com/ElephantMans/EMUIKits'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xiangping' => 'xiangping165@sina.com' }
