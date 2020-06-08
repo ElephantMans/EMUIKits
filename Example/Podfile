@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'EMUIKits_Example' do
+  pod 'EMUIKits', :path => '../'
+
+  target 'EMUIKits_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

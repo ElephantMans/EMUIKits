@@ -1,0 +1,16 @@
+PODS:
+  - EMUIKits (0.1.0)
+
+DEPENDENCIES:
+  - EMUIKits (from `../`)
+
+EXTERNAL SOURCES:
+  EMUIKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EMUIKits: 26bcbf4df81da4974d36baa55fb6b009deb6410b
+
+PODFILE CHECKSUM: 89fd7f0dbc25d3b80780968673d16f2f4e1b56a2
+
+COCOAPODS: 1.9.3
